@@ -1,0 +1,20 @@
+# ignore temp files
+*~
+
+# ignore junk files from Lazarus
+*.lpr
+*.lpi
+
+# ignore junk files from compiling Pascal code
+*.o
+*.or
+*.compiled
+*.ppu
+
+Pong
+
+
+# ignore other junk files
+*.swp
+*.ico
+*.bak
