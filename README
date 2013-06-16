@@ -1,3 +1,27 @@
-This is a simple pong game made to test my Delphi skills with shapes.
+A simple pong game originally made in Delphi, now updated to Lazarus/Free Pascal.
+
+It is currently 2 player only.
+
+To play:
+  - Compile with Lazarus or Free Pascal.
+  - Start a game with F8.
+  - Use W/S to control the left paddle, and UP/DOWN to control the right paddle.
+  - Scores are saved across games.
+  - Have fun!
+
+TODO:
+
+IMPROVEMENTS TO OLD CODE
+  - Make global variables private.
+  - Improve constant/variable names.
+  - Change direction/speed variables to enums.
+  - Get rid of magic numbers.
+  - Comment complicated sections of code.
+
+NEW CODE
+  - Improve boundary detection.
+  - Start using PongObjects file.
+  - Add AI for one player.
+  - use separate timers for ball and paddles.
 
 JL
