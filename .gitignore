@@ -4,6 +4,7 @@
 # ignore junk files from Lazarus
 *.lpr
 *.lpi
+*.lps
 *.identcache
 
 # ignore junk files from compiling Pascal code
